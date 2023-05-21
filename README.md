@@ -7,3 +7,4 @@ A collection of useful websites
 + Visualize the pixel value of an image: https://pixspy.com/
   + useful in opencv findContuors.
 + Visualize a caffe model: https://cuijiahua.com/netscope/#/editor
++ Visualize SGD, Momentu, Adam and etc: [lilipads/gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz/)
